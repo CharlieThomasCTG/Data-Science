@@ -8,5 +8,6 @@ Data Science Portfolio
 ## Project: Credit Card Fraud Detection. https://github.com/charliethomasct82/Credit-Card-Default-prediction-capstone-Project
 ![image](https://github.com/charliethomasct82/Charlie-Portfolio/assets/93368865/b748c152-48f1-4062-a6ea-1db8edff350c)
 
-## Project: Credit Card Fraud Detection. https://github.com/charliethomasct82/Credit-Card-Default-prediction-capstone-Project
-![image](https://github.com/charliethomasct82/Charlie-Portfolio/assets/93368865/b748c152-48f1-4062-a6ea-1db8edff350c)
+## Project: Automatic ticket Classification. https://github.com/charliethomasct82/Automatic_ticket_classification
+![image](https://github.com/charliethomasct82/Charlie-Portfolio/assets/93368865/252096da-5bab-42af-b22e-63242a40a2ff)
+
