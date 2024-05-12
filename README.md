@@ -1,4 +1,4 @@
-# [About me](https://www.linkedin.com/in/charliethomas20121999/) &nbsp; [Portfolio]( https://charliethomasct82.github.io/Charlie-Portfolio/) &nbsp; [Blogs](https://medium.com/new-story)
+# [back To main page](https://charliethomasct82.github.io/test-github-pages/)
 # Data Science Projects
 
 # [<img src="https://github.com/charliethomasct82/Charlie-Portfolio/assets/93368865/29e55dfc-4e9f-4cbb-ab3f-1a604e5bf689" alt="alt text" width="500" height="300">](https://github.com/charliethomasct82/Bike_sharing_regression)[<img src="https://github.com/charliethomasct82/Charlie-Portfolio/assets/93368865/45cca87e-628f-4ee4-b02d-64664ddeba1f" alt="alt text" width="500" height="300">](https://github.com/charliethomasct82/Research_Thesis) 
